@@ -115,4 +115,6 @@ terraform -chdir=tests/harness init -backend=false
 terraform -chdir=tests/harness test
 ```
 
-The license will be added before publication.
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
